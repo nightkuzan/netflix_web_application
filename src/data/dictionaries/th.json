@@ -1,0 +1,18 @@
+{
+    "text": {
+        "welcome": "ยินดีต้อนรับสู่ Netflix",
+        "login": "เข้าสู่ระบบ",
+        "signup": "ลงทะเบียน",
+        "email": "อีเมล",
+        "password": "รหัสผ่าน",
+        "forgot_password": "ลืมรหัสผ่าน?",
+        "remember_me": "จดจำฉัน",
+        "submit": "ส่ง",
+        "cancel": "ยกเลิก",
+        "home": "หน้าแรก",
+        "search": "ค้นหา",
+        "my_list": "รายการของฉัน",
+        "settings": "การตั้งค่า",
+        "logout": "ออกจากระบบ"
+    }
+}
